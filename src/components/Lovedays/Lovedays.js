@@ -38,12 +38,6 @@ export default class Lovedays extends Component {
   }
 
   render() {
-    return (
-      <div>
-        <h2>
-          <Display {...this._extractData(this.state.counter)} />
-        </h2>
-      </div>
-    );
+    return <Display {...this._extractData(this.state.counter)} />;
   }
 }

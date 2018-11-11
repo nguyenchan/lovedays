@@ -1,4 +1,5 @@
 import React from "react";
+import "./DisplayCounter.css";
 
 export default function Display(props) {
   let [days, hours, mins, secs] = [
@@ -8,12 +9,11 @@ export default function Display(props) {
     props.secs
   ].map(num => (num < 10 ? "0" + num : num));
   return (
-    <div>
-      <span>{days + ' DAYS'}</span>
-      <br/>
-      <span>
+    <div className="days_wrapper">
+      <div className="_days">{days + " DAYS"}</div>
+      <div className="_hours">
         {hours}:{mins}:{secs}
-      </span>
+      </div>
     </div>
   );
 }
