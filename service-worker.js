@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lovedays/precache-manifest.ec9f244bc5d8771e9558ab9f215d8a4a.js"
+  "/lovedays/precache-manifest.c9b9b4b5bac96652b08449bfdca3a715.js"
 );
 
 workbox.clientsClaim();
