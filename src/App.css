@@ -18,6 +18,21 @@
   color: white;
 }
 
+.lovedays-wrapper {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid white;
+}
+
+.profile-wrapper {
+  position: absolute;
+  bottom: 0;
+}
+
 .App-link {
   color: #61dafb;
 }

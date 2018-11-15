@@ -10,6 +10,7 @@ export default function Display(props) {
   ].map(num => (num < 10 ? "0" + num : num));
   return (
     <div className="days_wrapper">
+      <div className="_title">IN LOVE</div>
       <div className="_days">{days + " DAYS"}</div>
       <div className="_hours">
         {hours}:{mins}:{secs}
