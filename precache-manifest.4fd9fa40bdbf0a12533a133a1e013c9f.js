@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/lovedays/static/css/main.6162f87f.chunk.css"
   },
   {
-    "revision": "f8fcdb82e97769d1a8ed6008d02e39bf",
+    "revision": "554c9fbd083fd8e053bb19ccc4ea1384",
     "url": "/lovedays/index.html"
   }
 ];
