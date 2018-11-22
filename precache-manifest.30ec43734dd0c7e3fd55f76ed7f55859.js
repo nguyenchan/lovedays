@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/lovedays/static/js/runtime~main.2a078dfe.js"
   },
   {
-    "revision": "292daf5171de87425f6f",
-    "url": "/lovedays/static/js/main.292daf51.chunk.js"
+    "revision": "83abd84462eb3b23c1d5",
+    "url": "/lovedays/static/js/main.83abd844.chunk.js"
   },
   {
     "revision": "7175540c3876a8f3e668",
     "url": "/lovedays/static/js/1.7175540c.chunk.js"
   },
   {
-    "revision": "292daf5171de87425f6f",
-    "url": "/lovedays/static/css/main.740f3e19.chunk.css"
+    "revision": "83abd84462eb3b23c1d5",
+    "url": "/lovedays/static/css/main.5a185167.chunk.css"
   },
   {
-    "revision": "9ae5c0f83fa198e8bb4d72a3ca288b82",
+    "revision": "d25ec50df95ade40f67b2b4d9a4794fa",
     "url": "/lovedays/index.html"
   }
 ];
