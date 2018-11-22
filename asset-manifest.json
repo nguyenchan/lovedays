@@ -1,13 +1,14 @@
 {
-  "main.css": "/lovedays/static/css/main.6162f87f.chunk.css",
-  "main.js": "/lovedays/static/js/main.63933b0c.chunk.js",
-  "main.js.map": "/lovedays/static/js/main.63933b0c.chunk.js.map",
-  "static/js/1.14113948.chunk.js": "/lovedays/static/js/1.14113948.chunk.js",
-  "static/js/1.14113948.chunk.js.map": "/lovedays/static/js/1.14113948.chunk.js.map",
+  "main.css": "/lovedays/static/css/main.740f3e19.chunk.css",
+  "main.js": "/lovedays/static/js/main.292daf51.chunk.js",
+  "main.js.map": "/lovedays/static/js/main.292daf51.chunk.js.map",
+  "static/js/1.7175540c.chunk.js": "/lovedays/static/js/1.7175540c.chunk.js",
+  "static/js/1.7175540c.chunk.js.map": "/lovedays/static/js/1.7175540c.chunk.js.map",
   "runtime~main.js": "/lovedays/static/js/runtime~main.2a078dfe.js",
   "runtime~main.js.map": "/lovedays/static/js/runtime~main.2a078dfe.js.map",
-  "static/css/main.6162f87f.chunk.css.map": "/lovedays/static/css/main.6162f87f.chunk.css.map",
+  "static/media/App.css": "/lovedays/static/media/bg.616eceaf.png",
+  "static/css/main.740f3e19.chunk.css.map": "/lovedays/static/css/main.740f3e19.chunk.css.map",
   "index.html": "/lovedays/index.html",
-  "precache-manifest.4fd9fa40bdbf0a12533a133a1e013c9f.js": "/lovedays/precache-manifest.4fd9fa40bdbf0a12533a133a1e013c9f.js",
+  "precache-manifest.d3820e6e8bf2b8226de486c3fe9de1e0.js": "/lovedays/precache-manifest.d3820e6e8bf2b8226de486c3fe9de1e0.js",
   "service-worker.js": "/lovedays/service-worker.js"
 }
