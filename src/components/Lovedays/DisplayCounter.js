@@ -11,7 +11,7 @@ export default function Display(props) {
   return (
     <div className="days_wrapper">
       <div className="_title">IN LOVE</div>
-      <div className="_days">{days + " DAYS"}</div>
+      <div className="_days">{days + (days > 1 ? " DAYS" : " DAY")}</div>
       <div className="_hours">
         {hours}:{mins}:{secs}
       </div>

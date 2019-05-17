@@ -1,9 +1,17 @@
 version: "3"
 services:
   lovedays:
+    container_name: lovedays
     build:
       context: ./
       dockerfile: Dockerfile
     restart: always
-    ports:
-      - 80:3000
+    networks:
+       testing_net:
+         ipv4_address: 192.168.22.2
+networks:
+  testing_net:
+    ipam:
+      driver: default
+      config:
+        - subnet: 192.168.22.0/24
